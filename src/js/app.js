@@ -1,5 +1,5 @@
 /* eslint-disable no-unused-vars */
-import Board from "./Board";
+import Board from "./board";
 
 const cells = Array.from(document.querySelectorAll(".cell"));
 
