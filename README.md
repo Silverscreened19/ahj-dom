@@ -1,6 +1,5 @@
 # Домашнее задание к занятию "2. DOM"
 
-![CI](https://github.com/silverscreened19/ahj-dom/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 
